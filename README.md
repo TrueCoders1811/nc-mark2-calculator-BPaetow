@@ -7,6 +7,6 @@
 
 This is a git based project, so make sure to make commits when necessary.
 I will be looking for at least 3 commits, but more will not hurt.
-#**Make sure you are working on a branch other than master!**
+**Make sure you are working on a branch other than master!**
 
 Once the project is finished, push your branch to gitHub and make a pull request
